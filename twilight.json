@@ -154,7 +154,7 @@
             "type": "boolean",
             "icon": "sicon-toggle-off",
             "label": "الوضع الداكن",
-            "description": null,
+            "description": "الوضع الداكن",
             "id": "footer_is_dark",
             "format": "switch",
             "required": true,
