@@ -154,8 +154,20 @@
         {
             "type": "boolean",
             "icon": "sicon-toggle-off",
+            "label": "الوضع الداكن copy",
+            "description": null,
+            "id": "الوضع_الداكن_copy",
+            "format": "switch",
+            "required": true,
+            "value": true,
+            "selected": true,
+            "public": true
+        },
+        {
+            "type": "boolean",
+            "icon": "sicon-toggle-off",
             "label": "الوضع الداكن",
-            "description": "الوضع الداكن",
+            "description": null,
             "id": "footer_is_dark",
             "format": "switch",
             "required": true,
